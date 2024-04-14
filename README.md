@@ -7,7 +7,7 @@
 | Motor Controls      | <a href="https://semi.asmpt.com/zh-tw/products/ap/tcb/">Firebird TCB W2i+ @ ASMPT</a> |
 | C++, Visual Studios, MFC, Win32, XML                 | Firebird TCB W2i+ @ ASMPT |
 | UI/Human Machine Interface Development | Firebird TCB W2i+ @ ASMPT|
-| Android Application Development, Java | [EMG Fitness Device](#EMG)|
+| Android Application Development, Java | <a href="https://github.com/kelvinwong020/FYP_EMG_Android">EMG Fitness Device</a>|
 | Embedded System Development          | <a href="https://github.com/kelvinwong020/Smart-Home-System">Smart Home System</a>|
 | C, I2C, UART, SPI, GPIO, STLink, STM32         | Smart Home System |
 | Web Development (Python, Django, BootStrap) | LASARD Technology |
