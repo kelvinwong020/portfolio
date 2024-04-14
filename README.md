@@ -15,7 +15,7 @@
 
 
 ## Education		        		
-- B.Eng., Computer Engineering | The Hong Kong University of Science and Technology (_Aug 2022_)
+B.Eng., Computer Engineering | The Hong Kong University of Science and Technology (_Aug 2022_)
 
 ## Work Experience
 **Software Engineer @ ASMPT (_Aug 2022 - Oct 2023_)**
