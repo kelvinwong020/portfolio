@@ -7,7 +7,7 @@
 | Motor Controls      | <a href="https://semi.asmpt.com/zh-tw/products/ap/tcb/">Firebird TCB W2i+ @ ASMPT</a> |
 | C++, Visual Studios, MFC, Win32, XML                 | Firebird TCB W2i+ @ ASMPT |
 | UI/Human Machine Interface Development | Firebird TCB W2i+ @ ASMPT|
-| Android Application Development, Java | <a href="https://github.com/kelvinwong020/FYP_EMG_Android">EMG Fitness Device</a>|
+| Android Application Development, Java | [EMG Fitness Device](#EMG)|
 | Embedded System Development          | <a href="https://github.com/kelvinwong020/Smart-Home-System">Smart Home System</a>|
 | C, I2C, UART, SPI, GPIO, STLink, STM32         | Smart Home System |
 | Web Development (Python, Django, BootStrap) | LASARD Technology |
@@ -19,6 +19,7 @@
 
 ## Work Experience
 **Software Engineer @ ASMPT (_Aug 2022 - Oct 2023_)**
+<br>Firebird W2i+ - Thermal Compression Bonding(TCB) | C++, XML, MFC, Win32, RS232, TCP/IP, Visual Studio
 - Utilized MS Visual Studio to developed and debugged Human Machine Interface(HMI) and Microsoft 	Foundation Class (MFC) programs in C++ and XML on Windows 10 with a team of engineers.
 - Increased machine accuracy by 100µm through new calibration method. Ensured 95 successful picks out of 100.
 - Streamlined Graphical User Interface(GUI) and automated tasks. Improved productivity by 5%. 
@@ -27,6 +28,7 @@
 - Designed and participated in unit testings and debugged software. Customer achieved mass production.
 
 **Firmware Engineer (Intern) @ LASARD Technology (Startup) (_Jan 2021 - Aug 2022_)**
+<br>LASARD – Pest Control System | C, C++, Python, Arduino, Raspberry Pi, Linux, BASH, HTML, OpenCV, USB
 - Developed image recognition system for use in pest control in restaurants. Product was granted seed funding.
 - Improved image clarity by implementing camera auto-focus using C++, Python, and USB on Arduino
 - Created Linux BASH Scripts for automating tasks
@@ -36,7 +38,7 @@
 - Debugged electronic hardware problems through oscilloscope and Digital Multimeters
 
 ## Projects (Detailed Project Portfolio May Be Found Within Repositories)
-### EMG Fitness Device - HKUST Final Year Project
+### <a name="EMG"></a>EMG Fitness Device - HKUST Final Year Project
 [Android Application](https://github.com/kelvinwong020/FYP_EMG_Android)
 | [Arduino Code](https://github.com/whiteunicorn3404/JQ03a-21_EMG_FYP)
 | [Demo](https://youtu.be/pZxpOF_Pch0)
